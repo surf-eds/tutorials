@@ -6,6 +6,7 @@ The web application is running at https://obc.endyser-surf.surf-hosted.nl/.
 The required credentials to access the application and SWIFT object store are available on request.
 
 The tutorial steps are:
+
 1. [The interface](#the-interface)
 2. [The input data](#the-input-data)
 3. [The workflow](#the-workflow)
